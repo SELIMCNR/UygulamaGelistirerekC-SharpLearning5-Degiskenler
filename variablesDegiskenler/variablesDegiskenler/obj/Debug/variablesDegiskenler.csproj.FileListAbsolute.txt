@@ -1,0 +1,10 @@
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project6\variablesDegiskenler\variablesDegiskenler\bin\Debug\variablesDegiskenler.exe.config
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project6\variablesDegiskenler\variablesDegiskenler\bin\Debug\variablesDegiskenler.exe
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project6\variablesDegiskenler\variablesDegiskenler\bin\Debug\variablesDegiskenler.pdb
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project6\variablesDegiskenler\variablesDegiskenler\obj\Debug\variablesDegiskenler.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project6\variablesDegiskenler\variablesDegiskenler\obj\Debug\variablesDegiskenler.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project6\variablesDegiskenler\variablesDegiskenler\obj\Debug\variablesDegiskenler.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project6\variablesDegiskenler\variablesDegiskenler\obj\Debug\variablesDegiskenler.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project6\variablesDegiskenler\variablesDegiskenler\obj\Debug\variablesDegiskenler.exe
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project6\variablesDegiskenler\variablesDegiskenler\obj\Debug\variablesDegiskenler.pdb
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project6\variablesDegiskenler\variablesDegiskenler\obj\Debug\variablesDegiskenler.Form1.resources
