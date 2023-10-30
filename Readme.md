@@ -1,1 +1,1 @@
-# Uygululama gelistererekC-SharpLearning6-Degiskenler
+# Uygululama gelistererekC-SharpLearning5-Degiskenler
